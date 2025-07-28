@@ -16,7 +16,7 @@ Constraints:
     Use the minimum number of external libraries 
 
 
-To Do Lists:
+To Do List:
 - Interface for UI, implementation for Console and potentially others
 - Interface for Repository, implementation for Memory and potentially others
 - Interface for Request / Response, Implementation for Response where Response Status as List<String>
