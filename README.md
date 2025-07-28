@@ -15,7 +15,7 @@ Constraints:
     You can use Java 1.8, 11 or 17 and an IDE of your choice
     Use the minimum number of external libraries 
 
-=====================================================================
+
 To Do Lists:
 - Interface for UI, implementation for Console and potentially others
 - Interface for Repository, implementation for Memory and potentially others
