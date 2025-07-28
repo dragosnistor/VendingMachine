@@ -21,6 +21,5 @@ To Do List:
 - Interface for Repository, implementation for Memory and potentially others
 - Interface for Request / Response, Implementation for Response where Response Status as List<String>
 - Response like HttpResponse / ResponseEntity with multiple objects as Response Status and Response Body
-- https://www.baeldung.com/spring-response-entity
-- Builder for creation
+- Builder for creation of Response
 - Something similar for Request
